@@ -1,0 +1,36 @@
+{
+  "config": {
+    "archivesPageSize": 50,
+    "archivesPath": "archives",
+    "dateFormat": "YYYY-MM-DD",
+    "feedCount": 10,
+    "feedFullText": true,
+    "footerInfo": "Powered by <a href=\"https://github.com/getgridea/gridea\" target=\"_blank\">找到我</a>",
+    "postPageSize": 10,
+    "postPath": "post",
+    "postUrlFormat": "SLUG",
+    "showFeatureImage": true,
+    "siteDescription": "我们都在不知不觉中品尝着人生百态",
+    "siteName": "yoky",
+    "tagPath": "tag",
+    "tagUrlFormat": "SHORT_ID",
+    "themeName": "paper"
+  },
+  "customConfig": {
+    "contentBgColor": "#fff5f5",
+    "customCss": "",
+    "facebook": "",
+    "ga": "",
+    "github": "",
+    "latestArticleText": "最新文章",
+    "navBgColor": "#fff0f6",
+    "nextArticleText": "下一篇",
+    "nextPageText": "下一页",
+    "prevPageText": "上一页",
+    "readMoreText": "Read More",
+    "tagListText": "标签列表",
+    "twitter": "",
+    "weibo": "",
+    "zhihu": ""
+  }
+}
